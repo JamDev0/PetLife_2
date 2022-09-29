@@ -1,0 +1,157 @@
+.first-main{
+    background-color:#E3EFE9;
+}
+
+.first-main p:first-child{
+    width: 605px;
+    font-family: 'DM Sans';
+    font-size: 52px;
+    line-height: 4.25rem;
+    color: #252C28;
+}
+
+.first-main p:last-child{
+    width: 585px;
+    font-family: 'DM Sans';
+    font-size: 18px;
+    line-height: 150%;
+    color: #495057;
+}
+
+.main-img img{
+    width: 650px;
+}
+
+.second-main{
+    background-color: #F7F9F9;
+}
+
+#second-main__obj p{
+    padding: 1.875rem 0 0.625rem 0;
+    text-align: center;
+    font-family: 'DM Sans';
+    font-size: 32px;
+}
+
+.second-main-content {
+    padding: 0px 6.25rem;
+}
+
+.main-idea {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-idea-text-container {
+    max-width: 630px;
+    background-color: rgb(255, 255, 255);
+    padding: 2.5rem 1.5rem;
+    border-style: solid;
+    border-color: #DCE9E2;
+    border-radius: 8px;
+    border-width: 1.9px;
+}
+
+.main-idea-text-container > h1 {
+    display: flex;
+    font-family: 'DM Sans';
+    font-weight: bolder;
+    font-size: 1.6875rem;
+    padding-bottom: 20px;
+}
+
+#cat-vegetables {
+    margin-top: 20px;
+    margin-right: 30px;
+}
+
+.main-important {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+} 
+
+.important-text-contain {
+    max-width: 230px;
+    background-color: rgb(255, 255, 255);
+    padding: 40px 24px;
+    margin-top: 70px;
+    border-style: solid;
+    border-color: #DCE9E2;
+    border-radius: 8px;
+    border-width: 1.9px;
+}
+
+.important-text-contain p:first-child{
+    font-family: 'DM Sans';
+    font-weight: bolder;
+    font-size: 27px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+#row-dog__img{
+    padding-top: 370px;
+    width: 100%;
+}
+
+.publicy-general p:first-child{
+    font-family: 'DM Sans';
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 130px;
+}
+
+.publico-img{
+    display: flex;
+    padding: 200px 0 0 200px;
+}
+
+.publico-img p{
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 28px;
+    color: #384633;
+    display: flex;
+    text-align: left;
+    align-items: center;
+    margin-right: 35px;
+    padding-left: 194px;
+}
+
+.publico-img img{
+    border-radius: 30px;
+    height: 530px;
+    width: 900px;
+}
+
+.bibliografy-general{
+    font-family: 'DM Sans';
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 477px;
+    padding-bottom: 290px;
+}
+
+.img-bibliografy img{
+    width: 134px;
+}
+
+.img-bibliografy p{
+   color: #495057;
+   font-family: 'DM Sans';
+   font-size: 24px;
+}
+
+#lupa-1{
+    display: flex;
+    background-color:#384633;
+    padding-left: 690px;
+}
